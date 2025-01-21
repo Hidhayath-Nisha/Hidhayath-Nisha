@@ -6,7 +6,9 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
 - 🌟 **Currently:** Master's in Computer Science, Washington, DC
 - 💼 **Previously:** Software Engineer at Xebia, Associate Technical Consultant at Vuram - WNS
 - 💡 **Specializing in:** Software Development, Cloud Computing, and Machine Learning
-
+- 🧑‍💻 **Open to Work:** Software Development Engineer - Summer Intern 2025 and AI Summer Intern 2025.
+- ✈️ **Ready to Relocate**
+- Contact me at (mailto:hidhayathnisha.mohamedidris@gwu.edu)
 ---
 
 ## 💻 Technical Skills
