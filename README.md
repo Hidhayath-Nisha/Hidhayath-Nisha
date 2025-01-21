@@ -5,8 +5,7 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
 ## About Me
 - 🌟 **Currently:** Master's in Computer Science, Washington, DC
 - 💼 **Previously:** Software Engineer at Xebia, Associate Technical Consultant at Vuram - WNS
-- 💡 **Specializing in:** Cloud Computing, Algorithms, and Full-Stack Development
-- 🌱 **Learning:** Cloud Computing and the latest in AI/ML 🔍
+- 💡 **Specializing in:** Software Development, Cloud Computing, and Machine Learning
 
 ---
 
