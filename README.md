@@ -1,14 +1,26 @@
 # Hi there! I'm Hidhayath Nisha Mohamed Idris  
 
 I'm a passionate **Software Engineer** and **Master's Student in Computer Science** at **The George Washington University** . 
+<div style="text-align: center;">
+    <a href="https://github.com/Hidhayath-Nisha/Portfolio/blob/main/assets/Hidhayath%20Nisha%20Mohamed%20Idris%20-%20Resume.pdf" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Download Resume" />
+    </a>
+</div>
 
 ## About Me
 - 🌟 **Currently:** Master's in Computer Science, Washington, DC
 - 💼 **Previously:** Software Engineer at Xebia, Associate Technical Consultant at Vuram - WNS
 - 💡 **Specializing in:** Software Development, Cloud Computing, and Machine Learning
 - 🧑‍💻 **Open to Work:** Software Development Engineer - Summer Intern 2025 and AI Summer Intern 2025.
-- ✈️ **Ready to Relocate**
-- Contact me at (mailto:hidhayathnisha.mohamedidris@gwu.edu)
+- ✈️ **Open to Relocation**
+- 📧 me out at hidhayathnisha.mohamedidris@gwu.edu
+
+---
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hidhayath%20Nisha-blue)](https://www.linkedin.com/in/hidhayath-nisha/)  
+[![Leetcode](https://img.shields.io/badge/LeetCode-Profile-lightgreen)](https://leetcode.com/u/Hidhayath_Nisha/)  
+  
 ---
 
 ## 💻 Technical Skills
@@ -33,12 +45,6 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hidhayath-Nisha&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidhayath-Nisha&layout=compact&theme=radical)
-
----
-
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hidhayath%20Nisha-blue)](https://www.linkedin.com/in/hidhayath-nisha/)  
-[![Leetcode](https://img.shields.io/badge/LeetCode-Profile-lightgreen)](https://leetcode.com/u/Hidhayath_Nisha/)  
 
 ---
 Thank you for spending your time here!
