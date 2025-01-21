@@ -23,7 +23,7 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
   
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 ### Programming Languages
 <img src="https://img.shields.io/badge/Java-blue" height="25"> <img src="https://img.shields.io/badge/Python-yellow" height="25"> <img src="https://img.shields.io/badge/C-brightgreen" height="25"> <img src="https://img.shields.io/badge/Swift-orange" height="25"> 
 <img src="https://img.shields.io/badge/HTML-red" height="25"> <img src="https://img.shields.io/badge/CSS-blue" height="25"> <img src="https://img.shields.io/badge/JavaScript-yellowgreen" height="25">
