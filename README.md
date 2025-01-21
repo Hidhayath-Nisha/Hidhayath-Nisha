@@ -13,7 +13,7 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
 - 💡 **Specializing in:** Software Development, Cloud Computing, and Machine Learning
 - 🧑‍💻 **Open to Work:** Software Development Engineer - Summer Intern 2025 and AI Summer Intern 2025.
 - ✈️ **Open to Relocation**
-- 📧 me out at hidhayathnisha.mohamedidris@gwu.edu
+- 📧 Reach me out at hidhayathnisha.mohamedidris@gwu.edu
 
 ---
 
