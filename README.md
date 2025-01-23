@@ -47,4 +47,4 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hidhayath-Nisha&layout=compact&theme=radical)
 
 ---
-Thank you for spending your time here!
+Thank you for spending your valuable time here!
