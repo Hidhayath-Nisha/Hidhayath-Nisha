@@ -26,7 +26,7 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
 ## Technical Skills
 ### Programming Languages
 <img src="https://img.shields.io/badge/Java-blue" height="25"> <img src="https://img.shields.io/badge/Python-yellow" height="25"> <img src="https://img.shields.io/badge/C-brightgreen" height="25"> <img src="https://img.shields.io/badge/Swift-orange" height="25"> 
-<img src="https://img.shields.io/badge/HTML-red" height="25"> <img src="https://img.shields.io/badge/CSS-blue" height="25"> <img src="https://img.shields.io/badge/JavaScript-yellowgreen" height="25">
+<img src="https://img.shields.io/badge/HTML-red" height="25"> <img src="https://img.shields.io/badge/CSS-blue" height="25"> <img src="https://img.shields.io/badge/JavaScript-yellowgreen" height="25"><img src="https://img.shields.io/badge/Supabase-brightgreen" height="25"> <img src="https://img.shields.io/badge/Appian-black" height="25">
 
 ### Frameworks & Libraries
 <img src="https://img.shields.io/badge/Django-green" height="25"> <img src="https://img.shields.io/badge/Express.js-blueviolet" height="25"> <img src="https://img.shields.io/badge/REST--API-lightgrey" height="25">
@@ -34,7 +34,7 @@ I'm a passionate **Software Engineer** and **Master's Student in Computer Scienc
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/VS%20Code-blue" height="25"> <img src="https://img.shields.io/badge/Xcode-lightblue" height="25"> <img src="https://img.shields.io/badge/Postman-orange" height="25"> 
 <img src="https://img.shields.io/badge/GitHub-black" height="25"> <img src="https://img.shields.io/badge/JIRA-lightgrey" height="25"> <img src="https://img.shields.io/badge/MIRO-green" height="25"> 
-<img src="https://img.shields.io/badge/Supabase-brightgreen" height="25"> <img src="https://img.shields.io/badge/Appian-purple" height="25">
+<img src="https://img.shields.io/badge/Supabase-brightgreen" height="25"> <img src="https://img.shields.io/badge/Appian BPM-purple" height="25">
 
 ### Databases & Cloud
 <img src="https://img.shields.io/badge/MySQL-blue" height="25"> <img src="https://img.shields.io/badge/MongoDB-green" height="25"> <img src="https://img.shields.io/badge/Azure%20DevOps-lightblue" height="25">
