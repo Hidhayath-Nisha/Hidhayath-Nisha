@@ -1,4 +1,4 @@
-# Hi there! I'm Hidhayath Nisha Mohamed Idris.
+# Hi there! I'm Hidhayath Nisha Mohamed Idris...
 
 I'm a passionate **Software Engineer** and **Master's Student in Computer Science** at **The George Washington University** . 
 <div style="text-align: center;">
