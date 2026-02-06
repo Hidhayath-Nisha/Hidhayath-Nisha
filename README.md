@@ -3,7 +3,7 @@
 I'm a passionate **Software Engineer** and **Master's Student in Computer Science** at **The George Washington University** . 
 <div style="text-align: center;">
     <a href="https://www.hidhayathnisha.tech/" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=google-drive&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
     </a>
 </div>
 
